@@ -1,0 +1,15 @@
+C:\Projects\ReactiveFun\ReactiveFun.Competitors\bin\Debug\ReactiveFun.Competitors.exe.config
+C:\Projects\ReactiveFun\ReactiveFun.Competitors\bin\Debug\ReactiveFun.Competitors.exe
+C:\Projects\ReactiveFun\ReactiveFun.Competitors\bin\Debug\ReactiveFun.Competitors.pdb
+C:\Projects\ReactiveFun\ReactiveFun.Competitors\bin\Debug\System.Reactive.Core.dll
+C:\Projects\ReactiveFun\ReactiveFun.Competitors\bin\Debug\System.Reactive.Interfaces.dll
+C:\Projects\ReactiveFun\ReactiveFun.Competitors\bin\Debug\System.Reactive.Linq.dll
+C:\Projects\ReactiveFun\ReactiveFun.Competitors\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Projects\ReactiveFun\ReactiveFun.Competitors\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Projects\ReactiveFun\ReactiveFun.Competitors\bin\Debug\System.Reactive.Core.xml
+C:\Projects\ReactiveFun\ReactiveFun.Competitors\bin\Debug\System.Reactive.Interfaces.xml
+C:\Projects\ReactiveFun\ReactiveFun.Competitors\bin\Debug\System.Reactive.Linq.xml
+C:\Projects\ReactiveFun\ReactiveFun.Competitors\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Projects\ReactiveFun\ReactiveFun.Competitors\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Projects\ReactiveFun\ReactiveFun.Competitors\obj\Debug\ReactiveFun.Competitors.exe
+C:\Projects\ReactiveFun\ReactiveFun.Competitors\obj\Debug\ReactiveFun.Competitors.pdb
